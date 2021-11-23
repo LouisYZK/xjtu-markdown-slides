@@ -13,6 +13,7 @@ Macbook的ppt各类真是难用，如果你
 
 可以使用此markdown模板糊弄(bushi)一个ppt  :）
 
+[](./examp.png)
 Based on
 
 - Marp-Vscode: https://github.com/marp-team/marp-vscode
