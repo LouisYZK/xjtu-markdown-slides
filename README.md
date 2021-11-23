@@ -17,7 +17,7 @@ Macbook的ppt各类真是难用，如果你
 
 ![](examp.png)
 
-审美一般，
+审美一般，样式你可以自己改。。。。
 
 Based on
 
