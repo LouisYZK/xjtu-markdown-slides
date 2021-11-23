@@ -5,15 +5,20 @@ Macbook的ppt各类真是难用，如果你
 
 - 熟悉markdown 和一点点前端语法
 - 需要简单的科研汇报ppt
+- 使用mac电脑
+- 同时被wps和mac-offic搞疯了。。。
 
-不需要
+同时不需要
 
 - 花哨的动画
 - 所见即所得地编辑内容
 
 可以使用此markdown模板糊弄(bushi)一个ppt  :）
 
-[](./examp.png)
+![](examp.png)
+
+审美一般，
+
 Based on
 
 - Marp-Vscode: https://github.com/marp-team/marp-vscode
